@@ -1,0 +1,26 @@
+body {
+    color: #457b9d;
+    background-size: cover;
+    background-image: url("images/giphy.gif");
+    text-align: center;
+    font-family: 'Chivo Mono', monospace; 
+}
+#spacex {
+    width: 200px;
+}
+
+.btn {
+    padding: 10px 20px;
+    background: white;
+    border: none;
+    font-family: monospace;
+    border-radius: 60px;
+    cursor: pointer;
+    color: #457b9d;
+    font-weight: bold;
+}
+
+
+.underline {
+    border-bottom: 2px solid white;
+}
